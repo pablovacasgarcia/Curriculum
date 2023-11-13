@@ -1049,13 +1049,7 @@ input[type=text], .project_description, input[type=url] {
   background-image: none;
 }
 
-.g1 .emerald:nth-child(5){
-  opacity: 0;
-}
 
-.g1 .emerald:last-of-type{
-  opacity: 0;
-}
 
 /* Footer */
 footer {
